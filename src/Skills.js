@@ -23,15 +23,13 @@ function Skills() {
             <Col xs={{ span: 10, offset: 1 }} className="abt-box">
               <h1>About me</h1>
               <p className="abt-desc">
-                I am a computer science student currently studying at PES
-                UNIVERSITY Bangalore, India. I am driven by a strong interest in
-                technology, especially in the fields of web development and
-                cloud computing. With experience in machine learning and data
-                analytics, I am constantly exploring new ways to leverage
-                technology to make a positive impact on society. I believe that
-                technology can be a powerful tool for social change, and I am
-                excited to be a part of a community that is working towards this
-                goal.
+                I am a cloud developer at Hewlett Packard Enterprise in
+                Bangalore, India, and studied computer science at PES
+                University. I am most interested in where machine learning meets
+                systems: my current research looks at how LLM inference servers
+                should store and evict KV caches. My earlier projects span
+                full-stack web apps, smart contracts, mobile apps and computer
+                vision.
               </p>
             </Col>
           </Row>
