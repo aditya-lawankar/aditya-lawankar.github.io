@@ -19,6 +19,9 @@ function NavBar() {
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
               <Nav className="me-auto justify-content-end flex-grow-1 pe-3 offcanvas-body">
+                <Nav.Link href="#research" style={{ paddingRight: '2rem' }}>
+                  Research
+                </Nav.Link>
                 <Nav.Link href="#my-projects" style={{ paddingRight: '2rem' }}>
                   Projects
                 </Nav.Link>

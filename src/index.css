@@ -59,6 +59,36 @@ body {
   margin-bottom: 0rem;
 }
 
+.research {
+  background-color: #f5f1ea;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 5px 0px,
+    rgba(0, 0, 0, 0.1) 0px 0px 1px 0px;
+  margin-top: 3rem;
+  padding-bottom: 1.3rem;
+}
+
+.research > h1 {
+  text-align: center;
+  padding-top: 1.3rem;
+}
+
+.research-title {
+  font-size: 1.3rem;
+  font-weight: 700;
+}
+
+.research-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+
+@media only screen and (min-width: 501px) {
+  .research {
+    border-radius: 7.5px;
+  }
+}
+
 .projects > h1 {
   text-align: center;
   padding-top: 1.3rem;

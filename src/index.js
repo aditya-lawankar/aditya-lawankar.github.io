@@ -5,6 +5,7 @@ import './index.css';
 import NavBar from './NavBar';
 import Main from './Main';
 import Skills from './Skills';
+import Research from './Research';
 import Projects from './Projects';
 import Contact from './Contact';
 // import reportWebVitals from './reportWebVitals';
@@ -15,6 +16,7 @@ root.render(
     <NavBar />
     <Main />
     <Skills />
+    <Research />
     <Projects />
     <Contact />
   </React.StrictMode>
